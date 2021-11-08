@@ -17,3 +17,8 @@ Outlet_Size | The size of the store in terms of ground area covered
 Outlet_Location_Type | The type of city in which the store is located
 Outlet_Type | Whether the outlet is just a grocery store or some sort of supermarket
 Item_Outlet_Sales | Sales of the product in the particulat store. This is the outcome variable to be predicted.
+
+<h2> For Dataset Reach me: </h2>
+<p align="left">
+<a href="mailto:punithmadaiahkumar@gmail.com" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/gmail.png" alt="punith_gowda35" height="40" width="40" /></a>
+</p>
